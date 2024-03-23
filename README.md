@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/Version-v1.0.0-red?style=for-the-badge&logo=none" alt="version" />
 </p>
 
-# diffiehellman
+# Diffie-Hellman
 
-<b>diffiehellman</b> is a lightweight package that provides an implementation of [diffie-hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) algorithm in Go. for seeing usages check [this](https://pkg.go.dev/github.com/erfanmomeniii/diffiehellman).
+<b>Diffie-Hellman</b> is a lightweight package that provides an implementation of [diffie-hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) algorithm in Go. for seeing usages check [this](https://pkg.go.dev/github.com/erfanmomeniii/diffiehellman).
 <p align="justify">
 The Diffie-Hellman is a key-exchange protocol that enables two parties communicating over a public channel to establish a mutual secret without transmitting it over the internet. It allows the two parties to use a public key to encrypt and decrypt their conversation or data using symmetric cryptography.
 </p>
